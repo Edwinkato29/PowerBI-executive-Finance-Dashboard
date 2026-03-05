@@ -1,0 +1,5 @@
+EntityKey,EntityCode,EntityName,EntityType,RegionName,RegionCode,Country,Currency,IsConsolidated,ParentEntity
+ENT-001,HQ,Corporate Headquarters,Parent,North America,NA,United States,USD,TRUE,
+ENT-002,WEST,Western Region,Subsidiary,North America,NA,United States,USD,TRUE,ENT-001
+ENT-003,EAST,Eastern Region,Subsidiary,North America,NA,United States,USD,TRUE,ENT-001
+ENT-004,INTL,International,Subsidiary,International,INTL,Canada,CAD,TRUE,ENT-001

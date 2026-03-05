@@ -1,0 +1,11 @@
+CostCenterKey,CostCenterCode,CostCenterName,DepartmentKey,BudgetOwner,AnnualBudget,CostType,IsActive
+CC-101,CC101,Direct Sales - North,DEPT-01,Sarah Mitchell,2400000.00,Variable,TRUE
+CC-102,CC102,Enterprise Sales,DEPT-01,David Kim,3600000.00,Variable,TRUE
+CC-201,CC201,HR - Corporate,DEPT-02,James Thornton,960000.00,Fixed,TRUE
+CC-202,CC202,HR - Field Operations,DEPT-02,Karen Walsh,480000.00,Fixed,TRUE
+CC-301,CC301,Brand & Campaigns,DEPT-03,Lisa Huang,600000.00,Semi-Variable,TRUE
+CC-302,CC302,Digital Marketing,DEPT-03,Tom Bradley,480000.00,Semi-Variable,TRUE
+CC-401,CC401,IT Infrastructure,DEPT-04,Michael Barnes,720000.00,Fixed,TRUE
+CC-402,CC402,IT Software & Tools,DEPT-04,Priya Sharma,360000.00,Fixed,TRUE
+CC-501,CC501,G&A Operations,DEPT-05,Robert Chen,480000.00,Fixed,TRUE
+CC-601,CC601,Finance - Depreciation,DEPT-06,Amanda Torres,180000.00,Non-Cash,TRUE

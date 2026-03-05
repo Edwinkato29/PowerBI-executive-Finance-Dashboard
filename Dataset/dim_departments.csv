@@ -1,0 +1,7 @@
+DepartmentKey,DepartmentCode,DepartmentName,DivisionName,DivisionCode,RegionName,RegionCode,DepartmentHead,CostType,IsRevenue
+DEPT-01,SALES,Sales & Revenue,Commercial,COMM,North America,NA,Sarah Mitchell,Variable,TRUE
+DEPT-02,HR,Human Resources,Corporate,CORP,North America,NA,James Thornton,Fixed,FALSE
+DEPT-03,MKTG,Marketing,Commercial,COMM,North America,NA,Lisa Huang,Semi-Variable,FALSE
+DEPT-04,IT,Information Technology,Corporate,CORP,North America,NA,Michael Barnes,Fixed,FALSE
+DEPT-05,GA,General & Administrative,Corporate,CORP,North America,NA,Robert Chen,Fixed,FALSE
+DEPT-06,FIN,Finance & Accounting,Corporate,CORP,North America,NA,Amanda Torres,Non-Cash,FALSE
